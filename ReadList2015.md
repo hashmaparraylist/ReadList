@@ -3,7 +3,9 @@
 ## 1. 前端
 
 *  AngularJS权威指南
+
 *  Javascript编程全解 __[2015.06.10 完]__
+
 *  Bootstrap实战
 
 ## 2. Ruby
