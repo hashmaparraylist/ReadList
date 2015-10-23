@@ -6,7 +6,7 @@
 
 *  Javascript编程全解 __[2015.06.10 完]__
 
-*  Bootstrap实战
+*  Bootstrap实战 __[2015.10.23 完]__
 
 ## 2. Ruby
 
