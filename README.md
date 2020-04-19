@@ -5,3 +5,4 @@
 * [2017年阅读记录](https://github.com/hashmaparraylist/ReadList/blob/master/ReadList2017.md)
 * [2018年阅读记录](https://github.com/hashmaparraylist/ReadList/blob/master/ReadList2018.md)
 * [2019年阅读记录](https://github.com/hashmaparraylist/ReadList/blob/master/ReadList2019.md)
+* [2020年阅读记录](https://github.com/hashmaparraylist/ReadList/blob/master/ReadList2020.md)
