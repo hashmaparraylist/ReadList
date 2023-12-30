@@ -1,5 +1,6 @@
 # 年度阅读计划
 
+* [2024年阅读记录](https://github.com/hashmaparraylist/ReadList/blob/master/ReadList2024.md)
 * [2023年阅读记录](https://github.com/hashmaparraylist/ReadList/blob/master/ReadList2023.md)
 * [2022年阅读记录](https://github.com/hashmaparraylist/ReadList/blob/master/ReadList2022.md)
 * [2021年阅读记录](https://github.com/hashmaparraylist/ReadList/blob/master/ReadList2021.md)
